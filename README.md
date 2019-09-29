@@ -1,10 +1,9 @@
-# Differentiable Neural Architecture Search via Proximal Iterations
+# NAS on noisy data
 ## Requirements
 ```
-Python >= 3.5.5, PyTorch == 0.3.1, torchvision == 0.2.0
+Python == 3.7.4, PyTorch == 1.1.0, torchvision == 0.3.0
 ```
 ## Dataset
-Prepare dataset firstly, dataset links can be seen in our Appendix. 
 
 ## Neural Architecture Search
 python train_search.py
